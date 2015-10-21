@@ -5,6 +5,7 @@
   "main": "./lib/apostrophe.js",
   "dependencies": {
     "async": "0.8.x",
+    "bcrypt": "latest",
     "bless": "^3.0.3",
     "broadband": "^0.1.0",
     "cheerio": "^0.17.0",
@@ -27,7 +28,6 @@
     "nunjucks": "^1.1.0",
     "oembetter": "^0.1.0",
     "optimist": "~0.4.0",
-    "password-hash": "~1.2.1",
     "qs": "~0.5.6",
     "regexp-quote": "0.0.0",
     "request": "~2.12.0",
